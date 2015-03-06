@@ -4,7 +4,7 @@
   "description": "checks if node contains or is node for the browser and node.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanfaucett/domcontains_node_class.git"
+    "url": "https://github.com/nathanfaucett/contains_node.git"
   },
   "main": "src/index.js",
   "keywords": [
