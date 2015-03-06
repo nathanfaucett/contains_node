@@ -13,7 +13,7 @@ describe("containsNode", function() {
         });
     });
 
-    it("should add class to node if it will change the current className", function() {
+    it("should check if node contains or is node", function() {
         var a = this.document.createElement("div"),
             b = this.document.createElement("div"),
             c = this.document.createElement("div");

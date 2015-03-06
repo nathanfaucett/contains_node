@@ -1,7 +1,7 @@
 {
   "name": "contains_node",
   "version": "0.0.1",
-  "description": "checks of node contains or is node for the browser and node.js",
+  "description": "checks if node contains or is node for the browser and node.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/nathanfaucett/domcontains_node_class.git"
