@@ -1,0 +1,27 @@
+{
+  "name": "contains_node",
+  "version": "0.0.1",
+  "description": "checks of node contains or is node for the browser and node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanfaucett/domcontains_node_class.git"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "contains_node",
+    "contains_node.js"
+  ],
+  "author": "Nathan Faucett",
+  "license": "BSD-2-Clause",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jsbeautifier": "^0.2.7",
+    "mocha": "^2.1.0",
+    "zombie": "^2.5.1"
+  },
+  "dependencies": {
+    "is_text_node": "git://github.com/nathanfaucett/is_text_node"
+  }
+}
