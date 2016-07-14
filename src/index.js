@@ -1,4 +1,4 @@
-var isTextNode = require("is_text_node");
+var isTextNode = require("@nathanfaucett/is_text_node");
 
 
 module.exports = function containsNode(a, b) {
